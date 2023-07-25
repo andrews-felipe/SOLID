@@ -1,4 +1,5 @@
 # Informações sobre o padrão SOLID
+by Andrews
 Introdução com exemplos descrições aplicado ao java(type)script para representar cada letra do acrônimo, os exemplos mostram como geralmente se aplica sem o padrão, comparando com a aplicação do mesmo.
 Aqui você pode ter uma noção básica sobre esses princípios.
 
